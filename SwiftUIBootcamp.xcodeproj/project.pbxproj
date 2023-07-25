@@ -56,6 +56,7 @@
 		40F8C53F2A62D31B001587ED /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C53E2A62D31B001587ED /* DarkModeBootcamp.swift */; };
 		40F8C5412A632EA6001587ED /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5402A632EA6001587ED /* DocumentationBootcamp.swift */; };
 		40F8C5462A65E6AD001587ED /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */; };
+		40F8C5482A708802001587ED /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -109,6 +110,7 @@
 		40F8C53E2A62D31B001587ED /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		40F8C5402A632EA6001587ED /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 		40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */,
 				40F8C51C2A618E84001587ED /* SliderBootcamp.swift */,
 				40F8C5102A603DF0001587ED /* TextEditorBootcamp.swift */,
+				40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */,
 				40F8C51E2A6193EF001587ED /* TabViewBootcamp.swift */,
 				40F8C4F82A5C4345001587ED /* TernaryBootcamp.swift */,
 				40F8C50C2A601787001587ED /* ContextMenuBootcamp.swift */,
@@ -287,6 +290,7 @@
 				40F8C4F32A5C1756001587ED /* ExtractSubviewsBootcamp.swift in Sources */,
 				40E7CB462A50482100D1DF23 /* FrameBootcamp.swift in Sources */,
 				40F8C4F12A5BF526001587ED /* ExtractedFunctionsBootcamp.swift in Sources */,
+				40F8C5482A708802001587ED /* IfLetGuardBootcamp.swift in Sources */,
 				40F8C4E32A54A4BC001587ED /* InitializerBootcamp.swift in Sources */,
 				40F8C4F92A5C4345001587ED /* TernaryBootcamp.swift in Sources */,
 				40F8C5092A5F311C001587ED /* AlertBootcamp.swift in Sources */,
