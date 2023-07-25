@@ -15,7 +15,9 @@ struct ToggleBootcamp: View {
         VStack {
             HStack{
                 Text("Status:")
+                    .foregroundColor(toggleIsOn ? Color.pink : Color.black)
                 Text(toggleIsOn ? "Online" : "Offline")
+                    .foregroundColor(toggleIsOn ? Color.pink : Color.black)
             }
             .font(.title)
             
