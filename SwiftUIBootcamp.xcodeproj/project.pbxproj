@@ -57,6 +57,7 @@
 		40F8C5412A632EA6001587ED /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5402A632EA6001587ED /* DocumentationBootcamp.swift */; };
 		40F8C5462A65E6AD001587ED /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */; };
 		40F8C5482A708802001587ED /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */; };
+		40F8C54A2A71B33B001587ED /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5492A71B33B001587ED /* TapGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -111,6 +112,7 @@
 		40F8C5402A632EA6001587ED /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 		40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 		40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
+		40F8C5492A71B33B001587ED /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +171,7 @@
 				40F8C5142A60978C001587ED /* PickerBootcamp.swift */,
 				40E7CB412A4F8CF800D1DF23 /* IconsBootcamp.swift */,
 				40F8C4EC2A5B5362001587ED /* ButtonsBootcamp.swift */,
+				40F8C5492A71B33B001587ED /* TapGestureBootcamp.swift */,
 				40F8C4E82A5601AC001587ED /* GridBootcamp.swift */,
 				40F8C5402A632EA6001587ED /* DocumentationBootcamp.swift */,
 				40F8C5162A60A63D001587ED /* ColorPickerBootcamp.swift */,
@@ -280,6 +283,7 @@
 				40E7CB402A4F31B300D1DF23 /* GradientsBootcamp.swift in Sources */,
 				40F8C51F2A6193EF001587ED /* TabViewBootcamp.swift in Sources */,
 				40E7CB482A50A86500D1DF23 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				40F8C54A2A71B33B001587ED /* TapGestureBootcamp.swift in Sources */,
 				40F8C5112A603DF0001587ED /* TextEditorBootcamp.swift in Sources */,
 				40F8C4E72A55F93D001587ED /* ScrollViewBootcamp.swift in Sources */,
 				40F8C4DF2A5362F8001587ED /* PaddingAndSpacerBootcamp.swift in Sources */,
