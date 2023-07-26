@@ -58,6 +58,7 @@
 		40F8C5462A65E6AD001587ED /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */; };
 		40F8C5482A708802001587ED /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */; };
 		40F8C54A2A71B33B001587ED /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C5492A71B33B001587ED /* TapGestureBootcamp.swift */; };
+		40F8C54C2A71B7E2001587ED /* ModelBootcamp .swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F8C54B2A71B7E2001587ED /* ModelBootcamp .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -113,6 +114,7 @@
 		40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 		40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 		40F8C5492A71B33B001587ED /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
+		40F8C54B2A71B7E2001587ED /* ModelBootcamp .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ModelBootcamp .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				40F8C5452A65E6AD001587ED /* OnAppearBootcamp.swift */,
 				40F8C51C2A618E84001587ED /* SliderBootcamp.swift */,
 				40F8C5102A603DF0001587ED /* TextEditorBootcamp.swift */,
+				40F8C54B2A71B7E2001587ED /* ModelBootcamp .swift */,
 				40F8C5472A708802001587ED /* IfLetGuardBootcamp.swift */,
 				40F8C51E2A6193EF001587ED /* TabViewBootcamp.swift */,
 				40F8C4F82A5C4345001587ED /* TernaryBootcamp.swift */,
@@ -299,6 +302,7 @@
 				40F8C4F92A5C4345001587ED /* TernaryBootcamp.swift in Sources */,
 				40F8C5092A5F311C001587ED /* AlertBootcamp.swift in Sources */,
 				40E7CB3C2A4EE45B00D1DF23 /* ShapesBootcamp.swift in Sources */,
+				40F8C54C2A71B7E2001587ED /* ModelBootcamp .swift in Sources */,
 				40F8C4ED2A5B5362001587ED /* ButtonsBootcamp.swift in Sources */,
 				40F8C4FD2A5C50F9001587ED /* AnimationTimingBootcamp.swift in Sources */,
 				40F8C5152A60978C001587ED /* PickerBootcamp.swift in Sources */,
